@@ -4,7 +4,7 @@ Repository for java code snippets
 
 ## jar dependencies
 
-    mystdlib.jar
+    stdlib.jar
 
 ## build
 
