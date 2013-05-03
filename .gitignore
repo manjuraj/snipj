@@ -1,6 +1,14 @@
 *.class
 
-# Package Files #
+# package files
 *.jar
+!/lib/*.jar
 *.war
 *.ear
+*.zip
+*.tar
+*.tar.gz
+
+# intelliJ
+*.idea
+*.iml
