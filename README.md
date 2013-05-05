@@ -1,8 +1,8 @@
-## snipj
+# snipj
 
 Repository for java code snippets
 
-## jar dependencies
+## jar
 
     stdlib.jar
 
